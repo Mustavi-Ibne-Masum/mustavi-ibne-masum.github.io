@@ -85,12 +85,12 @@ author:
   bio              : "Recent Graduate from Department of Computer Science and Engineering of Ahsanullah University of Science and Technology."
   location         : "Dhaka, Bangladesh"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?user=GBaSF7MAAAAJ&hl=en"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term="
+  googlescholar    : #"https://scholar.google.com/citations?user="
   email            : "mustavi.sadim99@gmail.com"
-  researchgate     : #"https://www.researchgate.net/profile/G-Shahariar"
-  scopus           : #"https://www.scopus.com/authid/detail.uri?authorId=57844100100"
-  semanticscholar  : #"https://www.semanticscholar.org/author/G.-M.-Shahariar/100649170"
+  researchgate     : #"https://www.researchgate.net/profile/"
+  scopus           : #"https://www.scopus.com/authid/detail.uri?authorId="
+  semanticscholar  : #"https://www.semanticscholar.org/author/"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,10 +102,10 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #""
   lastfm           :
   linkedin         : "mustavi-ibne-masum-73abb4177"
-  orcid            : #"http://orcid.org/0000-0001-9757-7663"
+  orcid            : #""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
