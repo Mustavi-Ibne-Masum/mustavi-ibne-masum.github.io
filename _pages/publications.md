@@ -13,8 +13,8 @@ author_profile: true
 <!-- Paper 01 -->
 ### Accepted
 ---------
-✔️ <span style="color:#7D6E83;font-family:Trebuchet MS;">**Bengali News Abstractive Summarization: T5 Transformer and Hybrid Approach**</span>
-<span style="color:black;font-family:Georgia"><br>
+✔️ <span style="color:#7D6E83;font-family:Trebuchet MS;">**Bengali News Abstractive Summarization: T5 Transformer and Hybrid Approach**</span><br>
+<span style="color:black;font-family:Georgia">
 	Khan Md Hasib, Md. Atiqur Rahman, <strong style="color:black">Mustavi Ibne Masum</strong>,  Friso De Boer, Sami Azam and Asif Kari, [DICTA 2023](https://www.dictaconference.org/)
 </span>
 <br>
@@ -54,9 +54,9 @@ author_profile: true
 ### Under Review
 --------------
 ⏲️ 
-<span style="font-family:Trebuchet MS;color:#769FCD">**Bengali Image Captioning Using Vision Encoder-Decoder Model**</span>,
+<span style="font-family:Trebuchet MS;color:#769FCD">**Bengali Image Captioning Using Vision Encoder-Decoder Model**</span><br>
 <span style="color:black;font-family:Georgia">
-	[ICCIT 2023](https://iccit.org.bd/2023/)
+	Tajrian Islam Ishan, Abdullah Al Noman, Raisa Rokib, <strong style="color:black">Mustavi Ibne Masum</strong>, Sifat Ahmed, Faisal Muhammad Shah, [ICCIT 2023](https://iccit.org.bd/2023/)
 </span>
 <!-- <span style="color:black;font-family:Georgia"><br> 
 	<font size="3"><strong>Authors</strong>: Tajrian Islam Ishan, Abdullah Al Noman, Raisa Rokib, <strong style="color:black">Mustavi Ibne Masum</strong>, Sifat Ahmed, Faisal Muhammad Shah </font>
@@ -97,9 +97,9 @@ author_profile: true
 </div>
 
 ⏲️ 
-<span style="font-family:Trebuchet MS;color:#769FCD">**GliomaCNN: An Effective Lightweight CNN Model in Assessment of Classifying Brain Tumor from Magnetic Resonance Images Using Explainable AI**</span>,
+<span style="font-family:Trebuchet MS;color:#769FCD">**GliomaCNN: An Effective Lightweight CNN Model in Assessment of Classifying Brain Tumor from Magnetic Resonance Images Using Explainable AI**</span><br>
 <span style="color:black;font-family:Georgia">
-	[Cancers](https://www.mdpi.com/journal/cancers/)
+	Md. Atiqur Rahman, <strong style="color:black">Mustavi Ibne Masum</strong>, Khan Md Hasib, M.F. Mridha, Sultan Alfarhood, Mejdl Safran, Dunren Che, [Cancers](https://www.mdpi.com/journal/cancers/)
 </span>
 <!-- <span style="color:black;font-family:Georgia"><br> 
 	<font size="3"><strong>Authors</strong>: Tajrian Islam Ishan, Abdullah Al Noman, Raisa Rokib, <strong style="color:black">Mustavi Ibne Masum</strong>, Sifat Ahmed, Faisal Muhammad Shah </font>
