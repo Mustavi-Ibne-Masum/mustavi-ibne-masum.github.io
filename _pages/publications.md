@@ -9,16 +9,13 @@ author_profile: true
 
 ## 2023
 <!-- --------- -->
+<!-- 📃 -->
 <!-- Paper 01 -->
 ### Accepted
 ---------
-📃 <span style="color:blue;font-family:Trebuchet MS;">**Bengali News Abstractive Summarization: T5 Transformer and Hybrid Approach**</span>
+✔️ <span style="color:#7D6E83;font-family:Trebuchet MS;">**Bengali News Abstractive Summarization: T5 Transformer and Hybrid Approach**</span>
 <span style="color:black;font-family:Georgia"><br>
-	<font size="3"><strong>Authors</strong>: Khan Md Hasib, Md. Atiqur Rahman, <strong style="color:black">Mustavi Ibne Masum</strong>,  Friso De Boer, Sami Azam and Asif Karim </font>
-</span>
-<br>
-<span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Conference:</strong><em> The 2023 International Conference on Digital Image Computing: Techniques and Applications</em></font> ([DICTA 2023](https://www.dictaconference.org/))
+	Khan Md Hasib, Md. Atiqur Rahman, <strong style="color:black">Mustavi Ibne Masum</strong>,  Friso De Boer, Sami Azam and Asif Kari, [DICTA 2023](https://www.dictaconference.org/)
 </span>
 <br>
 <!-- [<a style="color:red;" href="#" onclick="$('#dicta2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>]
@@ -56,8 +53,11 @@ author_profile: true
 <!-- Paper 02 -->
 ### Under Review
 --------------
-⏳ 
-<span style="color:#8F3900;font-family:Trebuchet MS;">**Bengali Image Captioning Using Vision Encoder-Decoder Model**</span> ([ICCIT 2023](https://iccit.org.bd/2023/))
+⏲️ 
+<span style="font-family:Trebuchet MS;color:#769FCD">**Bengali Image Captioning Using Vision Encoder-Decoder Model**</span>,
+<span style="color:black;font-family:Georgia">
+	[ICCIT 2023](https://iccit.org.bd/2023/)
+</span>
 <!-- <span style="color:black;font-family:Georgia"><br> 
 	<font size="3"><strong>Authors</strong>: Tajrian Islam Ishan, Abdullah Al Noman, Raisa Rokib, <strong style="color:black">Mustavi Ibne Masum</strong>, Sifat Ahmed, Faisal Muhammad Shah </font>
 </span>

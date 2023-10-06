@@ -11,12 +11,13 @@ redirect_from:
 <iframe src="/files/CV/cv of Mustavi_Ibne_Masum.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 <br>
-<span style="color:brown; font-family:Georgia;">Feel free to contact regarding any queries.</span>
+
 
 ## Email
-+ <span style="font-family:Trebuchet MS; color:black;">mustavi.sadim99[at]gmail[dot]com [personal] </span><br/>
++ <span style="font-family:Trebuchet MS; color:black;">mustavi[dot]sadim99[at]gmail[dot]com [personal] </span><br/>
 <!-- + <span style="font-family:Trebuchet MS; color:black;"> [official] </span> -->
 
+<span style="color:#1FAB89; font-family:Georgia;">Feel free to contact regarding any queries.</span><br>
 ## Social Media
 <span style="color:black; font-family:Georgia;">
 You can find me on [LinkedIn](https://www.linkedin.com/in/mustavi-ibne-masum-73abb4177/).
