@@ -96,11 +96,11 @@ author_profile: true
 	</p>
 </div>
 
-⏲️ 
-<span style="font-family:Trebuchet MS;color:#769FCD">**GliomaCNN: An Effective Lightweight CNN Model in Assessment of Classifying Brain Tumor from Magnetic Resonance Images Using Explainable AI**</span><br>
+<!-- ⏲️  -->
+<!-- <span style="font-family:Trebuchet MS;color:#769FCD">**GliomaCNN: An Effective Lightweight CNN Model in Assessment of Classifying Brain Tumor from Magnetic Resonance Images Using Explainable AI**</span><br>
 <span style="color:black;font-family:Georgia">
-	Md. Atiqur Rahman, <strong style="color:black">Mustavi Ibne Masum</strong>, Khan Md Hasib, M.F. Mridha, Sultan Alfarhood, Mejdl Safran, Dunren Che, [Cancers](https://www.mdpi.com/journal/cancers/)
-</span>
+	Md. Atiqur Rahman, <strong style="color:black">Mustavi Ibne Masum</strong>, Khan Md Hasib, M.F. Mridha, Sultan Alfarhood, Mejdl Safran, Dunren Che, [Cancers](https://www.mdpi.com/journal/cancers/) 
+</span> -->
 <!-- <span style="color:black;font-family:Georgia"><br> 
 	<font size="3"><strong>Authors</strong>: Tajrian Islam Ishan, Abdullah Al Noman, Raisa Rokib, <strong style="color:black">Mustavi Ibne Masum</strong>, Sifat Ahmed, Faisal Muhammad Shah </font>
 </span>
