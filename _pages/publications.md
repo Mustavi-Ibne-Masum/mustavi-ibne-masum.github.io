@@ -49,12 +49,7 @@ author_profile: true
 	</p>
 </div> 
 
-
-<!-- Paper 02 -->
-### Under Review
---------------
-⏲️ 
-<span style="font-family:Trebuchet MS;color:#769FCD">**Bengali Image Captioning Using Vision Encoder-Decoder Model**</span><br>
+✔️ <span style="font-family:Trebuchet MS;color:#7D6E83">**Bengali Image Captioning Using Vision Encoder-Decoder Model**</span><br>
 <span style="color:black;font-family:Georgia">
 	Tajrian Islam Ishan, Abdullah Al Noman, Raisa Rokib, <strong style="color:black">Mustavi Ibne Masum</strong>, Sifat Ahmed, Faisal Muhammad Shah, [ICCIT 2023](https://iccit.org.bd/2023/)
 </span>
@@ -95,6 +90,52 @@ author_profile: true
 		</font>
 	</p>
 </div>
+
+<!-- Paper 02 -->
+<!-- ### Under Review
+--------------
+⏲️ 
+<span style="font-family:Trebuchet MS;color:#769FCD">**Bengali Image Captioning Using Vision Encoder-Decoder Model**</span><br>
+<span style="color:black;font-family:Georgia">
+	Tajrian Islam Ishan, Abdullah Al Noman, Raisa Rokib, <strong style="color:black">Mustavi Ibne Masum</strong>, Sifat Ahmed, Faisal Muhammad Shah, [ICCIT 2023](https://iccit.org.bd/2023/)
+</span> -->
+<!-- <span style="color:black;font-family:Georgia"><br> 
+	<font size="3"><strong>Authors</strong>: Tajrian Islam Ishan, Abdullah Al Noman, Raisa Rokib, <strong style="color:black">Mustavi Ibne Masum</strong>, Sifat Ahmed, Faisal Muhammad Shah </font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Conference:</strong><em> The International Conference on Computer and Information Technology</em></font> ([ICCIT 2023](https://iccit.org.bd/2023/))
+</span>
+<br>-->
+<!-- [<a style="color:red;" href="#" onclick="$('#ecce2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>]( 
+	 paper link
+	)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](
+		 git link 
+		)] [[<span style ="color:red"><font size="3">Presentation</font></span>](
+			 git file link 
+			)] [<a style="color:red;" href="#" onclick="$('#ecce2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] -->
+
+<!-- <div id="ecce2023_bib" class="bib" style="display:none;"> 
+	<pre>
+	  @INPROCEEDINGS{,
+	   author={},
+	  booktitle={conference name}, 
+	  title={Bengali Image Captioning Using Vision Encoder-Decoder Model}, 
+	  year={2023},
+	  volume={},
+	  number={},
+	  pages={1-6},
+	  doi={}}
+	</pre>
+</div>
+
+<div id="ecce2023_abstract" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+		<font size="3">
+			Our research focuses on Bangla Image Captioning which involves generating descriptive captions for the images. To address this task, we propose a Vision Encoder-Decoder model, consisting of interconnected models for image encoding and text decoding. Previous work in this area has not explored the use of the Vision Encoder-Decoder Model specifically for Bangla Image Captioning. We have conducted several studies using two publicly available Bengali datasets, Bornon and BanCap, and merged them to create a comprehensive dataset to assess the performance of our model. Our proposed model outperforms recent developments in Bengali image captioning, delivering exceptional results in both quantitative and qualitative analyses.
+		</font>
+	</p>
+</div> -->
 
 <!-- ⏲️  -->
 <!-- <span style="font-family:Trebuchet MS;color:#769FCD">**GliomaCNN: An Effective Lightweight CNN Model in Assessment of Classifying Brain Tumor from Magnetic Resonance Images Using Explainable AI**</span><br>
