@@ -14,6 +14,12 @@ author_profile: true
 * <span style="font-family:Georgia; color:black">Participated in Space Apps Next Gen - Dhaka, 2016 [[Certificate](https://mustavi-ibne-masum.github.io/files/Participations-and-Awards/Certificate_of_Participation_in_Space_Apps_Next_Gen_Dhaka.pdf)]<br/></span>
 * <span style="font-family:Georgia; color:black">Participated in  Notre Dame Annual Science Festival 2016 & 26th GKC, Wall Magazine, Senior Level, 2016 [[Certificate](https://mustavi-ibne-masum.github.io/files/Participations-and-Awards/Certificate_of_Participation_in_Notre_Dame_Annual_Science_Festival_2016_and_26th_GKC.pdf)]</span>
 
+# Extracurricular Activities
+* <span style="font-family:Georgia; color:black">Organizer of AUST CSE Festival Fall 2021<br/></span>
+* <span style="font-family:Georgia; color:black">Organizer of AUST CSE Picnic Fall 2021 [[Event Link](https://www.facebook.com/events/1052667378693918/)]<br/></span>
+* <span style="font-family:Georgia; color:black">Organizer of AUST CSE Football Tournament Fall 2021 [[Event Link](https://www.facebook.com/events/432336688706777)]<br/></span>
+* <span style="font-family:Georgia; color:black">Former Member of Neutrino ACC Science Club (NASC)<br/></span>
+
 # Course Completed
 * <span style="font-family:Georgia; color:black">Neural Networks and Deep Learning, Coursera [[Certificate](https://www.coursera.org/account/accomplishments/certificate/LFUWYH2A9MQM)]</span>
 * <span style="font-family:Georgia; color:black">Mathematics for Machine Learning: Linear Algebra, Coursera [[Certificate](https://www.coursera.org/account/accomplishments/certificate/ECGKF655TRRN)]</span>
