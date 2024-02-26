@@ -3,11 +3,11 @@ main:
   - title: "Home"
     url: /
     
-  - title: "Education"
-    url: /education/
+  - title: "Experience & Education"
+    url: /experience-education/
   
-  - title: "Participations & Awards"
-    url: /participations-awards/
+  - title: "Participation & Awards"
+    url: /participation-awards/
     
   - title: "Projects"
     url: /projects/ 

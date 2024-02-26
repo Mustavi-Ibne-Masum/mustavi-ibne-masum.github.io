@@ -16,13 +16,13 @@
 <loc>http://localhost:4000/cv/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/education/</loc>
+<loc>http://localhost:4000/experience-education/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page-archive/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/participations-awards/</loc>
+<loc>http://localhost:4000/participation-awards/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/</loc>

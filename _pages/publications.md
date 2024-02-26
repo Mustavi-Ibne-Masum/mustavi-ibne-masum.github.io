@@ -7,38 +7,37 @@ author_profile: true
 
 <!-- <span style="color:black; font-family:Georgia;">Most recent publication updates can be found on my <a style ="color:#800080;" href=""><em>[Google Scholar]</em></a> profile.</span> -->
 
-## 2023
+<!-- ## 2023 -->
 <!-- --------- -->
 <!-- 📃 -->
 <!-- Paper 01 -->
 <!-- ### Accepted ✔️-->
-### Presented
+<!-- ### Presented
 ---------
 📃 <span style="color:#7D6E83;font-family:Trebuchet MS;">**Bengali News Abstractive Summarization: T5 Transformer and Hybrid Approach**</span><br>
 <span style="color:black;font-family:Georgia">
 	Khan Md Hasib, Md. Atiqur Rahman, <strong style="color:black">Mustavi Ibne Masum</strong>,  Friso De Boer, Sami Azam and Asif Kari, [DICTA 2023](https://www.dictaconference.org/)
 </span>
-<br>
-<!-- [<a style="color:red;" href="#" onclick="$('#dicta2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>]
+<br> -->
+<!-- 
 [[<span style ="color:red"><font size="3">PDF</font></span>](
 	 paper link 
 		)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](
 		 git link
 		)] [[<span style ="color:red"><font size="3">Presentation</font></span>](
 			git file link 
-			)] [<a style="color:red;" href="#" onclick="$('#dicta2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] -->
-
-<div id="dicta2023_bib" class="bib" style="display:none;">
+			)]  -->
+<!-- [<a style="color:red;" href="#" onclick="$('#dicta2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] -->
+<!-- [<a style="color:red;" href="#" onclick="$('#dicta2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] -->
+<!-- <div id="dicta2023_bib" class="bib" style="display:none;">
 	<pre>
-	  @INPROCEEDINGS{<>,
-	  author={},
-	  booktitle={2023 International Conference on Digital Image Computing: Techniques and Applications (DICTA)}, 
-	  title={Bengali News Abstractive Summarization: T5 Transformer and Hybrid Approach}, 
-	  year={2023},
-	  volume={},
-	  number={},
-	  pages={1-7},
-	  doi={}}
+	@inproceedings{inproceedings,
+	author = {Hasib, Khan and Rahman, Md. Atiqur and Masum, Mustavi Ibne and De Boer, Friso and Azam, Sami and Karim, Asif},
+	year = {2023},
+	month = {11},
+	pages = {},
+	title = {Bengali News Abstractive Summarization: T5 Transformer and Hybrid Approach}
+	}
 	</pre>
 </div>
 
@@ -53,37 +52,35 @@ author_profile: true
 📃 <span style="font-family:Trebuchet MS;color:#7D6E83">**Bengali Image Captioning Using Vision Encoder-Decoder Model**</span><br>
 <span style="color:black;font-family:Georgia">
 	Tajrian Islam Ishan, Abdullah Al Noman, Raisa Rokib, <strong style="color:black">Mustavi Ibne Masum</strong>, Sifat Ahmed, Faisal Muhammad Shah, [ICCIT 2023](https://iccit.org.bd/2023/)
-</span>
-
-<!-- [<a style="color:red;" href="#" onclick="$('#ecce2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>]( 
+</span><br> -->
+<!--  [[<span style ="color:red"><font size="3">PDF</font></span>]( 
 	 paper link
 	)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](
 		 git link 
 		)] [[<span style ="color:red"><font size="3">Presentation</font></span>](
 			 git file link 
-			)] [<a style="color:red;" href="#" onclick="$('#ecce2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] -->
-
-<div id="ecce2023_bib" class="bib" style="display:none;"> 
+			)]  -->
+<!-- [<a style="color:red;" href="#" onclick="$('#ICCIT2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>]
+[<a style="color:red;" href="#" onclick="$('#ICCIT2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] -->
+<!-- <div id="ICCIT2023_bib" class="bib" style="display:none;"> 
 	<pre>
-	  @INPROCEEDINGS{,
-	   author={},
-	  booktitle={conference name}, 
-	  title={Bengali Image Captioning Using Vision Encoder-Decoder Model}, 
-	  year={2023},
-	  volume={},
-	  number={},
-	  pages={1-6},
-	  doi={}}
+	@inproceedings{inproceedings,
+	author = {Islam, Tajrian and Noman, Abdullah and Rokib, Raisa and Masum, Mustavi Ibne and Ahmed, Sifat and Shah, Faisal},
+	year = {2023},
+	month = {12},
+	pages = {},
+	title = {Bengali Image Captioning Using Vision Encoder-Decoder Model}
+	}
 	</pre>
 </div>
 
-<div id="ecce2023_abstract" class="abstract" style="display:none;">
+<div id="ICCIT2023_abstract" class="abstract" style="display:none;">
 	<p style="text-align:justify; color:black;font-family:Monaco;"> 
 		<font size="3">
 			Our research focuses on Bangla Image Captioning which involves generating descriptive captions for the images. To address this task, we propose a Vision Encoder-Decoder model, consisting of interconnected models for image encoding and text decoding. Previous work in this area has not explored the use of the Vision Encoder-Decoder Model specifically for Bangla Image Captioning. We have conducted several studies using two publicly available Bengali datasets, Bornon and BanCap, and merged them to create a comprehensive dataset to assess the performance of our model. Our proposed model outperforms recent developments in Bengali image captioning, delivering exceptional results in both quantitative and qualitative analyses.
 		</font>
 	</p>
-</div>
+</div> -->
 
 <!-- Paper 02 -->
 <!-- ### Under Review
@@ -144,7 +141,7 @@ author_profile: true
 		)] [[<span style ="color:red"><font size="3">Presentation</font></span>](
 			 git file link 
 			)] [<a style="color:red;" href="#" onclick="$('#ecce2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] -->
-
+<!-- 
 <div id="ecce2023_bib" class="bib" style="display:none;"> 
 	<pre>
 	  @INPROCEEDINGS{,
@@ -157,12 +154,14 @@ author_profile: true
 	  pages={1-20},
 	  doi={}}
 	</pre>
-</div>
+</div> -->
 
-<div id="ecce2023_abstract" class="abstract" style="display:none;">
+<!-- <div id="ecce2023_abstract" class="abstract" style="display:none;">
 	<p style="text-align:justify; color:black;font-family:Monaco;"> 
 		<font size="3">
 			Brain tumors pose a significant threat to human lives and have gained increasing attention as the tenth leading cause of global mortality. This study addresses the pressing issue of brain tumor classification using MRI. It focuses on distinguishing between Low-Grade Gliomas (LGG) and High-Grade Gliomas (HGG). LGGs are benign and typically manageable with surgical resection, while HGGs are malignant and more aggressive. The research introduces an innovative custom CNN model, GliomaCNN. GliomaCNN stands out as a lightweight CNN model compared to its predecessors. The research utilized the BraTS 2020 dataset for its experiments. Integrated with the gradient-boosting algorithm, GliomaCNN has achieved an impressive accuracy of 99.1569\%. The model's interpretability is ensured through SHAP and Grad-CAM++. They provide insights into critical decision-making regions for classification outcomes. Despite challenges in identifying tumors in images without visible signs, the model demonstrates remarkable performance in this critical medical application, offering a promising tool for accurate brain tumor diagnosis which paves the way for enhanced early detection and treatment of brain tumors.
 		</font>
 	</p>
-</div>
+</div> -->
+
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FQnFG6c4589ffF6qpj&commas=true&titleLinks=false&jsonp=1&theme=default"></script>

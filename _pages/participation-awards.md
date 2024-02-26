@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Participations & Awards"
-permalink: /participations-awards/
+title: "Participation & Awards"
+permalink: /participation-awards/
 author_profile: true
 ---
 
