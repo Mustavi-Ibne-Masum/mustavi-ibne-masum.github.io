@@ -6,15 +6,15 @@ main:
   - title: "Experience & Education"
     url: /experience-education/
   
+  - title: "Publications"
+    url: /publications/    
+       
   - title: "Participation & Awards"
     url: /participation-awards/
     
   - title: "Projects"
     url: /projects/ 
 
-  - title: "Publications"
-    url: /publications/    
-       
   - title: "CV"
     url: /cv/
  

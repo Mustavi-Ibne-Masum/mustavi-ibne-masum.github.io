@@ -164,4 +164,4 @@ author_profile: true
 	</p>
 </div> -->
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FQnFG6c4589ffF6qpj&commas=true&titleLinks=false&jsonp=1&theme=default"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2F2yhCZhAo2NDPiRBYD&commas=true&titleLinks=false&jsonp=1&theme=default&iframe=true&showSearch=true"></script>
