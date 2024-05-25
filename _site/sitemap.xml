@@ -16,7 +16,10 @@
 <loc>http://localhost:4000/cv/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/experience-education/</loc>
+<loc>http://localhost:4000/education/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/experience/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page-archive/</loc>
@@ -56,7 +59,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/files/CV/cv%20of%20Mustavi_Ibne_Masum.pdf</loc>
-<lastmod>2024-02-26T12:47:41+06:00</lastmod>
+<lastmod>2024-05-23T23:20:19+06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/Education/BSc_Certificate.pdf</loc>

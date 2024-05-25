@@ -12,7 +12,7 @@ redirect_from:
 
 <p style="text-align:justify; color:black; font-family:Georgia">This is Mustavi Ibne Masum. I am working as a Junior Software Engineer at <a href="https://www.rite.com.bd/">RITE Solutions Ltd.</a> I graduated from 
 <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> with a Bachelor's degree in Computer Science and 
-Engineering. My career aspiration is to become both software engineer and scientist doing research in my field. 
+Engineering where I also work as a part-time lecturer. My career aspiration is to become both software engineer and scientist doing research in my field. 
 I am particularly interested in working on NLP and Vision works. </p>
 
 

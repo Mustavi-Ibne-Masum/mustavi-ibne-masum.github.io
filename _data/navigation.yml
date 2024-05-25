@@ -3,9 +3,12 @@ main:
   - title: "Home"
     url: /
     
-  - title: "Experience & Education"
-    url: /experience-education/
+  - title: "Experience"
+    url: /experience/
   
+  - title: "Education"
+    url: /education/
+ 
   - title: "Publications"
     url: /publications/    
        

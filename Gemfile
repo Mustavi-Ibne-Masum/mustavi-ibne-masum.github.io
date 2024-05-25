@@ -9,4 +9,3 @@ gem 'rspec'
 gem "jekyll"
 gem 'github-pages'
 gem "webrick", "~> 1.8"
-gem 'wdm'
