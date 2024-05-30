@@ -28,7 +28,7 @@ author_profile: true
 <!-- [[Video Link](https://youtu.be/lhYJUGn6LJo?si=lXm-LrHc5gMon5pV&t=16)] -->
 </span>
     <div class="yt-wrapper">
-    <iframe src="https://www.youtube.com/embed/lhYJUGn6LJo?autoplay=1&controls=1"  width="20" height="10"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/lhYJUGn6LJo?autoplay=0&controls=1"  width="20" height="10"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
 * <span style="color:black;font-family:Trebuchet MS;font-size:22px"><b>Personal Progress Tracker</b></span><br>
@@ -44,7 +44,7 @@ author_profile: true
 <!-- [[Video Link](https://youtu.be/kE7Xf_8gVxI?si=DD8b10EWXICRhA1c)] -->
 </span>
     <div class="yt-wrapper">
-    <iframe src="https://www.youtube.com/embed/kE7Xf_8gVxI?autoplay=1&controls=1"  width="20" height="10"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/kE7Xf_8gVxI?autoplay=0&controls=1"  width="20" height="10"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
 * <span style="color:black;font-family:Trebuchet MS;font-size:22px"><b>FCMS(Football club Management System)</b></span><br>
@@ -53,7 +53,7 @@ author_profile: true
 <!-- [[Video Link](https://youtu.be/zJW6YVEsldU?si=x3b3fkpGLvmP_-9i)] -->
 </span>
     <div class="yt-wrapper">
-    <iframe src="https://www.youtube.com/embed/zJW6YVEsldU?autoplay=1&controls=1"  width="20" height="10"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/zJW6YVEsldU?autoplay=0&controls=1"  width="20" height="10"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
 * <span style="color:black;font-family:Trebuchet MS;font-size:22px"><b>DeshiEats</b></span><br>
