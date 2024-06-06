@@ -164,4 +164,6 @@ author_profile: true
 	</p>
 </div> -->
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2F2yhCZhAo2NDPiRBYD&commas=true&titleLinks=false&jsonp=1&theme=default&iframe=true&showSearch=true"></script>
+<!-- <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2F2yhCZhAo2NDPiRBYD&commas=true&titleLinks=false&jsonp=1&theme=default&iframe=true&showSearch=true"></script> -->
+
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FSLxGiAzhJbCYCk2kD&titleLinks=false&jsonp=1&theme=default&iframe=true&showSearch=true"></script>
