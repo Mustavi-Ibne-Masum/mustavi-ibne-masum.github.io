@@ -10,7 +10,7 @@ author_profile: true
 <img src="/images/LogoAust.png" style="float:left;width:125px;height:125px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt">B.Sc. in Computer Science and Engineering [[Certificate](https://mustavi-ibne-masum.github.io/files/Education/BSc_Certificate.pdf)]</span><br/>
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://aust.edu" target="_blank" style="color:black;">Ahsanullah University of Science and Technology</a></b></span><br/>
 Duration: 2019 - 2023 <br/>
-CGPA: <b>3.881</b>/4.00 scale (Ranked <b>2<sup>nd</sup></b>)<br/>
+CGPA: <b>3.881</b>/4.00 scale (Ranked <b>2<sup>nd</sup></b>)[[Transcript](https://mustavi-ibne-masum.github.io/files/Education/Mustavi_Ibne_Masum_Academic_Transcript)]<br/>
 Supervisor: <a style="color:brown;" href="https://aust.edu/cse/faculty_member/mr_faisal_muhammad_shah">Mr. Faisal Muhammad Shah</a><br/>
 </span>
 

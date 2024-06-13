@@ -27,3 +27,6 @@ author_profile: true
 # Course Completed
 * <span style="font-family:Georgia; color:black">Neural Networks and Deep Learning, Coursera [[Certificate](https://www.coursera.org/account/accomplishments/certificate/LFUWYH2A9MQM)]</span>
 * <span style="font-family:Georgia; color:black">Mathematics for Machine Learning: Linear Algebra, Coursera [[Certificate](https://www.coursera.org/account/accomplishments/certificate/ECGKF655TRRN)]</span>
+
+# Language Certification
+* <span style="font-family:Georgia; color:black">International English Language Testing System [[Certificate](https://mustavi-ibne-masum.github.io/files/Participations-and-Awards/BD00123503138-14-11-2023-ETRF.pdf)]</span>
