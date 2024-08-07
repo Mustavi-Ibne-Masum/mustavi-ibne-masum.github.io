@@ -21,3 +21,10 @@ Duration: Apr 2024 - Present
 </span>
 
 <br/>
+<img src="/images/LogoSEU.png" style="float:left;width:125px;height:125px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt">Lecturer (Part-Time)</span><br/>
+Department of Computer Science and Engineering<br/>
+<span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://aust.edu" target="_blank" style="color:black;">Southeast University</a></b></span><br/>
+Duration: Jul 2024 - Present
+</span>
+
+<br/>

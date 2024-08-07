@@ -16,6 +16,7 @@ redirect_from:
 ## Email
 + <span style="font-family:Trebuchet MS; color:black;">mustavi[dot]sadim99[at]gmail[dot]com [personal] </span><br/>
 + <span style="font-family:Trebuchet MS; color:black;">mustavi[at]rite[dot]com[dot]bd [official] </span><br/>
++ <span style="font-family:Trebuchet MS; color:black;">mustavi[dot]masum[at]seu[dot]edu[dot]bd [official] </span><br/>
 <!-- + <span style="font-family:Trebuchet MS; color:black;"> [official] </span> -->
 
 <span style="color:#1FAB89; font-family:Georgia;">Feel free to contact regarding any queries.</span><br>
