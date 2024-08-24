@@ -9,7 +9,7 @@ author_profile: true
 ## Current
 <img src="/images/LogoRITE.png" style="float:left;width:125px;height:125px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt">Junior Software Engineer</span><br/>
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://www.rite.com.bd/" target="_blank" style="color:black;">RITE Solutions Ltd.</a></b></span><br/>
-Duration: Feb 2024 - Present <br/>
+Duration: Feb 2024 - Jun 2024 <br/>
 Framework: .NET, AngularJs
 </span>
 
