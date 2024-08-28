@@ -12,8 +12,6 @@ author_profile: true
 Duration: Feb 2024 - Jun 2024 <br/>
 Framework: .NET, AngularJs
 </span>
-
-<br/>
 ## Current
 <img src="/images/LogoAust.png" style="float:left;width:126px;height:126px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt">Lecturer (Part-Time)</span><br/>
 Department of Computer Science and Engineering<br/>
