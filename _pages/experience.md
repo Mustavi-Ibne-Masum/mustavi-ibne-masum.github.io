@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 # Work Experience
-## Current
+<!-- ## Current
 <span>
-</span>
+</span> -->
 ## Past
 <img src="/images/LogoRITE.png" style="float:left;width:125px;height:125px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt">Junior Software Engineer</span><br/>
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://www.rite.com.bd/" target="_blank" style="color:black;">RITE Solutions Ltd.</a></b></span><br/>
