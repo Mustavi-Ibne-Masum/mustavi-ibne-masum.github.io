@@ -5,7 +5,7 @@ permalink: /participation-awards/
 author_profile: true
 ---
 
-* <span style="font-family:Georgia; color:black"><span style="color:#1FAB89">Vector AI Scholarship</span>[[Link](https://vectorinstitute.ai/ontario-ai-talent-gets-2-1-million-boost-as-vector-institute-awards-120-graduate-scholarships/)], Vector Institute, 2025<br/></span>
+* <span style="font-family:Georgia; color:black"><span style="color:#1FAB89">Vector AI Scholarship[[Link](https://vectorinstitute.ai/ontario-ai-talent-gets-2-1-million-boost-as-vector-institute-awards-120-graduate-scholarships/)]</span>, Vector Institute, 2025<br/></span>
 * <span style="font-family:Georgia; color:black"><span style="color:#1FAB89">Dean's List of Honor (Ranked <b>2<sup>nd</sup></b>)[[List](https://www.aust.edu/notice/1879)]</span>, Ahsanullah University of Science and Technology, 2023<br/></span>
 * <span style="font-family:Georgia; color:black">Tuition Fee Waiver for Spring-2022 Semester, Ahsanullah University of Science and Technology, 2023<br/></span>
 * <span style="font-family:Georgia; color:black">Tuition Fee Waiver for the Spring-2021 Semester, Ahsanullah University of Science and Technology, 2022<br/></span>
