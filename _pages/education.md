@@ -10,7 +10,7 @@ author_profile: true
 <img src="/images/LogoLU.png" style="float:left;width:125px;height:125px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt">M.Sc. in Computer Science Thesis with Specialization in Artificial Intelligence</span><br/>
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://www.lakeheadu.ca/" target="_blank" style="color:black;">Lakehead University</a></b></span><br/>
 Duration: 2025 - Present <br/>
-Supervisor: <a style="color:brown;" href="https://www.lakeheadu.ca/users/A/talvesd">Dr. Thiago E. Alves de Oliveira</a><br/>
+Supervisor: <a style="color:brown;" href="https://www.lakeheadu.ca/users/A/talvesd">Dr. Thiago E. Alves de Oliveira</a>,
             <a style="color:brown;" href="https://www.lakeheadu.ca/users/E/memu">Dr. Mahzabeen Emu</a><br/>
 </span>
 
