@@ -15,7 +15,8 @@ redirect_from:
 
 ## Email
 + <span style="font-family:Trebuchet MS; color:black;">mustavi[dot]sadim99[at]gmail[dot]com [personal] </span><br/>
-+ <span style="font-family:Trebuchet MS; color:black;">mustavi[dot]masum[at]seu[dot]edu[dot]bd [official] </span><br/>
++ <span style="font-family:Trebuchet MS; color:black;">mmasum[at]lakeheadu[dot]ca [official] </span><br/>
+<!-- + <span style="font-family:Trebuchet MS; color:black;">mustavi[dot]masum[at]seu[dot]edu[dot]bd [official] </span><br/> -->
 <!-- + <span style="font-family:Trebuchet MS; color:black;">mustavi[at]rite[dot]com[dot]bd [official] </span><br/> -->
 <!-- + <span style="font-family:Trebuchet MS; color:black;"> [official] </span> -->
 
@@ -26,7 +27,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/mustavi-ibne-masum-73a
 </span>
 
 ## Office
-[Office website](https://seu.edu.bd/)
+<!-- [Office website](https://seu.edu.bd/)
 <address>
 <span style="color:black; font-family:Georgia;">
 Southeast University,<br>
@@ -36,4 +37,4 @@ Dhaka 1208, Bangladesh
 </address> 
 <br/>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.3834295788793!2d90.4048154!3d23.7693568!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c70e4508a1f7%3A0x4e6fd719b838721!2sSoutheast%20University!5e0!3m2!1sen!2sbd!4v1753423709389!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.3834295788793!2d90.4048154!3d23.7693568!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c70e4508a1f7%3A0x4e6fd719b838721!2sSoutheast%20University!5e0!3m2!1sen!2sbd!4v1753423709389!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->

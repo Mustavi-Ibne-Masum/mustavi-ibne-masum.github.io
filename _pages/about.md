@@ -10,7 +10,7 @@ redirect_from:
 
 <span style="color:black; font-family:Georgia">Greetings!🖖🏼</span>
 
-<p style="text-align:justify; color:black; font-family:Georgia">I am Mustavi Ibne Masum, currently pursuing a Master’s in Computer Science with a specialization in Artificial Intelligence at <a href="https://www.lakeheadu.ca/">Lakehead University</a>, and a recipient of the <a href="https://vectorinstitute.ai/ontario-ai-talent-gets-2-1-million-boost-as-vector-institute-awards-120-graduate-scholarships/">Vector Institute Scholarship in AI</a>. My research interests include optimization and computer vision, with the goal of combining research and software engineering to create user-friendly AI solutions.
+<p style="text-align:justify; color:black; font-family:Georgia">I am Mustavi Ibne Masum, currently pursuing a Master’s in Computer Science with a specialization in Artificial Intelligence at <a href="https://www.lakeheadu.ca/">Lakehead University</a>, and a recipient of the <a href="https://vectorinstitute.ai/">Vector Institute</a> Scholarship in AI. My research interests include optimization and computer vision, with the goal of combining research and software engineering to create user-friendly AI solutions.
 
 
 <p style="text-align:justify;color:black; font-family:Georgia">

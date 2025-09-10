@@ -7,7 +7,7 @@ author_profile: true
 
 # Work Experience
 ## Current
-
+<span>
 </span>
 ## Past
 <img src="/images/LogoRITE.png" style="float:left;width:125px;height:125px;"><span style="font-family:Georgia; color:black;"><span style="font-size:18pt">Junior Software Engineer</span><br/>
