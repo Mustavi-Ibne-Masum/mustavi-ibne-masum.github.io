@@ -27,14 +27,15 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/mustavi-ibne-masum-73a
 </span>
 
 ## Office
-<!-- [Office website](https://seu.edu.bd/)
+[Office website](https://www.lakeheadu.ca/)
 <address>
 <span style="color:black; font-family:Georgia;">
-Southeast University,<br>
-251/A Tejgaon I/A,<br>
-Dhaka 1208, Bangladesh
+Advanced Technology & Academic Centre,<br>
+955 Oliver Rd, Thunder Bay, ON P7B 7A5,<br>
+Located in: Lakehead University,<br>
+Ontario, Canada
 </span> 
 </address> 
 <br/>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.3834295788793!2d90.4048154!3d23.7693568!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c70e4508a1f7%3A0x4e6fd719b838721!2sSoutheast%20University!5e0!3m2!1sen!2sbd!4v1753423709389!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5295.7567743505015!2d-89.26001085954061!3d48.420479033944076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4d5921bde6e9cf61%3A0xbb00a8eadc51d8cd!2sAdvanced%20Technology%20and%20Academic%20Centre%20(ATAC)!5e0!3m2!1sen!2sca!4v1758035539490!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
