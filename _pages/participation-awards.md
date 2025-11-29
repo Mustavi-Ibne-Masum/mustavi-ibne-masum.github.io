@@ -7,9 +7,9 @@ author_profile: true
 
 * <span style="font-family:Georgia; color:black"><span style="color:#1FAB89">Vector AI Scholarship[[Link](https://vectorinstitute.ai/ontario-ai-talent-gets-2-1-million-boost-as-vector-institute-awards-120-graduate-scholarships/)]</span>, Vector Institute, 2025<br/></span>
 * <span style="font-family:Georgia; color:black"><span style="color:#1FAB89">Dean's List of Honor (Ranked <b>2<sup>nd</sup></b>)[[List](https://www.aust.edu/notice/1879)]</span>, Ahsanullah University of Science and Technology, 2023<br/></span>
-* <span style="font-family:Georgia; color:black">Tuition Fee Waiver for Spring-2022 Semester, Ahsanullah University of Science and Technology, 2023<br/></span>
-* <span style="font-family:Georgia; color:black">Tuition Fee Waiver for the Spring-2021 Semester, Ahsanullah University of Science and Technology, 2022<br/></span>
-* <span style="font-family:Georgia; color:black">Tuition Fee Waiver for the Fall-2020 Semester, Ahsanullah University of Science and Technology, 2021<br/></span>
+* <span style="font-family:Georgia; color:black">Tuition Fee Waiver for Spring-2022 Semester[[Link](https://www.aust.edu/notice/1645)], Ahsanullah University of Science and Technology, 2023<br/></span>
+* <span style="font-family:Georgia; color:black">Tuition Fee Waiver for the Spring-2021 Semester[[Link](https://www.aust.edu/notice/1159)], Ahsanullah University of Science and Technology, 2022<br/></span>
+* <span style="font-family:Georgia; color:black">Tuition Fee Waiver for the Fall-2020 Semester[[Link](https://www.aust.edu/notice/881)], Ahsanullah University of Science and Technology, 2021<br/></span>
 * <span style="font-family:Georgia; color:black">Participated in Codeware Intra AUST Programming Contest, Spring 2019 (Team Contest), 2019 [[Certificate](https://mustavi-ibne-masum.github.io/files/Participations-and-Awards/Certificate_of_Participation_in_Codeware_19_Intra_AUST_Programming_Contest_Spring_2019.pdf)]<br/></span>
 * <span style="font-family:Georgia; color:black">Tuition Fee Waiver for the Spring-2019 Semester, Ahsanullah University of Science and Technology, 2019<br/></span>
 * <span style="font-family:Georgia; color:black">Participated in Game of Codes Intra AUST Programming Contest, Fall 2018 (Team Contest), 2019 [[Certificate](https://mustavi-ibne-masum.github.io/files/Participations-and-Awards/Certificate_of_Participation_in_Game_of_Codes_Intra_AUST_Programming_Contest_fall_2018.pdf)]<br/></span>
@@ -28,5 +28,5 @@ author_profile: true
 * <span style="font-family:Georgia; color:black">Neural Networks and Deep Learning, Coursera [[Certificate](https://www.coursera.org/account/accomplishments/certificate/LFUWYH2A9MQM)]</span>
 * <span style="font-family:Georgia; color:black">Mathematics for Machine Learning: Linear Algebra, Coursera [[Certificate](https://www.coursera.org/account/accomplishments/certificate/ECGKF655TRRN)]</span>
 
-# Language Certification
-* <span style="font-family:Georgia; color:black">International English Language Testing System [[Certificate](https://mustavi-ibne-masum.github.io/files/Participations-and-Awards/BD00123503138-14-11-2023-ETRF.pdf)]</span>
+<!-- # Language Certification
+* <span style="font-family:Georgia; color:black">International English Language Testing System [[Certificate](https://mustavi-ibne-masum.github.io/files/Participations-and-Awards/BD00123503138-14-11-2023-ETRF.pdf)]</span> -->
