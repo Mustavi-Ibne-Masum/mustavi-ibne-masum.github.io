@@ -72,9 +72,10 @@ Framework: .NET, AngularJs
     <li>Wrote LINQ queries to streamline data retrieval and improve performance across core modules.</li>
     </ul>
   </details>
+<br/>
 
 # Reviewer
-[IEEE Communications Letters](https://www.comsoc.org/publications/journals/ieee-comml)
+[IEEE Communications Letters](https://portal.issn.org/resource/ISSN/1558-2558)
 
 
 
