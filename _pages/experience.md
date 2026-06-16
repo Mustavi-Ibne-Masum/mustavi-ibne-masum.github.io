@@ -18,6 +18,8 @@ Duration: September 2025 - Present <br/>
     <ul style="margin:0; padding:6px 0 0 16px; list-style-position:outside;">
     <li><b>COMP-1411-FA</b> - Computer Programming I, Fall Term 2025</li> 
     <li><b>COMP-4111-FA</b> - Clinical Decision Support, Fall Term 2025</li> 
+    <li><b>COMP-2476-WA</b> - Intro Assembly Lang & Op Sys, Winter Term 2026</li>
+    <li><b>COMP-5413-WA</b> - Advanced Data Structures, Winter Term 2026</li>
     </ul>
   </details>
 ## Past
@@ -75,9 +77,8 @@ Framework: .NET, AngularJs
 <br/>
 
 # Reviewer
-[IEEE Communications Letters](https://www.webofscience.com/wos/author/record/OHV-1979-2025)
-
-[IEEE Wireless Communications Letters](https://www.webofscience.com/wos/author/record/OHV-1979-2025)
+<span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://www.webofscience.com/wos/author/record/OHV-1979-2025" target="_blank" style="color:black;">IEEE Communications Letters</a></b></span>
+<span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://www.webofscience.com/wos/author/record/OHV-1979-2025" target="_blank" style="color:black;">IEEE Wireless Communications Letters</a></b></span>
 
 
 
