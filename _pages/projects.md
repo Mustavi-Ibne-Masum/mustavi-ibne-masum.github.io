@@ -26,6 +26,9 @@ author_profile: true
 <span style="color:black;font-family:Georgia">A framework to Real-Time American Sign Language Recognition Using MediaPipe Hand Landmarks and a Fully Connected Neural Network.
 [[Git Link](https://github.com/Mustavi-99/Real-Time-ASL-Recognition-System)]
 </span>
+    <div class="yt-wrapper">
+    <iframe src="https://www.youtube.com/embed/IstYhpTVqfM?autoplay=0&controls=1"  width="20" height="10"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 
 * <span style="color:black;font-family:Trebuchet MS;font-size:22px"><b>Impact of DRO on Noisy Labels</b></span><br>
 <span style="color:black;font-family:Georgia">Investigating the Impact of Distributionally Robust Optimization on Learning with Noisy Labels.
