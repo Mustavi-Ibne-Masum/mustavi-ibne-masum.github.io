@@ -22,7 +22,8 @@ author_profile: true
 </style>
 
 ## Graduate Projects[2025-2026]
-* <span style="color:black;font-family:Trebuchet MS;font-size:22px"><b>Blind Stick</b></span><br>
+* <span style="color:black;font-family:Trebuchet MS;font-size:22px"><b>Real Time ASL Recognition System
+Public</b></span><br>
 <span style="color:black;font-family:Georgia">A framework to Real-Time American Sign Language Recognition Using MediaPipe Hand Landmarks and a Fully Connected Neural Network.
 [[Git Link](https://github.com/Mustavi-99/Real-Time-ASL-Recognition-System)]
 </span>
