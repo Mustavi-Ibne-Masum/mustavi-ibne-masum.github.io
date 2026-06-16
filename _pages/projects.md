@@ -20,6 +20,18 @@ author_profile: true
   height: 50%;
 }
 </style>
+
+## Graduate Projects[2025-2026]
+* <span style="color:black;font-family:Trebuchet MS;font-size:22px"><b>Blind Stick</b></span><br>
+<span style="color:black;font-family:Georgia">A framework to Real-Time American Sign Language Recognition Using MediaPipe Hand Landmarks and a Fully Connected Neural Network.
+[[Git Link](https://github.com/Mustavi-99/Real-Time-ASL-Recognition-System)]
+</span>
+
+* <span style="color:black;font-family:Trebuchet MS;font-size:22px"><b>Impact of DRO on Noisy Labels</b></span><br>
+<span style="color:black;font-family:Georgia">Investigating the Impact of Distributionally Robust Optimization on Learning with Noisy Labels.
+[[Git Link](https://github.com/Mustavi-99/COMP-5422-FA25-CompVision-ImageAnalysis-G10)]
+</span>
+
 ## Undergraduate Projects[2019-2023]
 
 * <span style="color:black;font-family:Trebuchet MS;font-size:22px"><b>IUMS</b></span><br>
