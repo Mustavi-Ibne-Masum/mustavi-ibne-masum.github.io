@@ -75,7 +75,8 @@ Framework: .NET, AngularJs
 <br/>
 
 # Reviewer
-[IEEE Communications Letters](https://portal.issn.org/resource/ISSN/1558-2558)
+[IEEE Communications Letters](https://www.webofscience.com/wos/author/record/OHV-1979-2025)
+[IEEE Wireless Communications Letters](https://www.webofscience.com/wos/author/record/OHV-1979-2025)
 
 
 
