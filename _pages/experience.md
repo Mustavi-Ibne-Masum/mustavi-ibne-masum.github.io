@@ -30,8 +30,9 @@ Duration: June 2025 - August 2025<br/>
 
 <details style="font-family:Georgia; color:black;margin-top:-20px;"><summary style="font-weight:bold; cursor:pointer;">Responsibilities</summary>
     <ul style="margin:0; padding:6px 0 0 16px; list-style-position:outside;">
-    <li>Instruct using an Outcome-Based Education (OBE) approach, emphasizing measurable learning outcomes and skill development.</li> <li>Instruct on Data Structures, covering foundational algorithms and data management techniques.</li> 
-    <li>Provide instruction on Introduction to Embedded Systems, both in theory and lab settings.</li>
+    <li>Instructed using an Outcome-Based Education (OBE) approach, emphasizing measurable learning outcomes and skill development.</li> 
+    <li>Instructed on Data Structures, covering foundational algorithms and data management techniques.</li> 
+    <li>Provided instruction on Introduction to Embedded Systems, both in theory and lab settings.</li>
     </ul>
   </details>
 
@@ -43,9 +44,9 @@ Duration: July 2024 - June 2025
 <br/>
 <details style="font-family:Georgia; color:black;margin-top:-20px;"><summary style="font-weight:bold; cursor:pointer;">Responsibilities</summary>
     <ul style="margin:0; padding:6px 0 0 16px; list-style-position:outside;">
-    <li>Instruct on Data Structures, covering foundational algorithms and data management techniques.</li>
-    <li>Teach Discrete Mathematics, focusing on logic, set theory, and combinatorial analysis.</li>
-    <li>Provide instruction on Introduction to Embedded Systems, both in theory and lab settings.</li>
+    <li>Instructed on Data Structures, covering foundational algorithms and data management techniques.</li>
+    <li>Taught Discrete Mathematics, focusing on logic, set theory, and combinatorial analysis.</li>
+    <li>Provided instruction on Introduction to Embedded Systems, both in theory and lab settings.</li>
     </ul>
   </details>
 
