@@ -30,12 +30,11 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/mustavi-ibne-masum-73a
 [Office website](https://www.lakeheadu.ca/)
 <address>
 <span style="color:black; font-family:Georgia;">
-Advanced Technology & Academic Centre,<br>
-955 Oliver Rd, Thunder Bay, ON P7B 7A5,<br>
-Located in: Lakehead University,<br>
+Lakehead University - Barrie STEM Hub,<br>
+5 Ross St, Barrie, ON L4M 3A5,<br>
 Ontario, Canada
-</span> 
-</address> 
+</span>
+</address>
 <br/>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5295.7567743505015!2d-89.26001085954061!3d48.420479033944076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4d5921bde6e9cf61%3A0xbb00a8eadc51d8cd!2sAdvanced%20Technology%20and%20Academic%20Centre%20(ATAC)!5e0!3m2!1sen!2sca!4v1758035539490!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d483.21955202512464!2d-79.69264124548297!3d44.390391282346044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882aa300352ac9e3%3A0x7ffc62c8d300d84c!2sLakehead%20University%20-%20Barrie%20STEM%20Hub!5e1!3m2!1sen!2sca!4v1792168257932!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
