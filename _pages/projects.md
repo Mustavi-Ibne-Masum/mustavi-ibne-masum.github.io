@@ -22,10 +22,9 @@ author_profile: true
 </style>
 
 ## Current Research[2026-Present]
-* <span style="color:black;font-family:Trebuchet MS;font-size:22px"><b>LLM-Driven Open-Pit Mine Scheduling</b></span><br>
-<span style="color:black;font-family:Georgia">Ongoing research on using Large Language Models and simulators for open-pit mine production scheduling and MILP formulation. Progress and findings are documented in a research blog.
-[[Blog Link](https://mustavi-99.github.io/Mining_research/)]
-</span>
+* <span style="font-family:Trebuchet MS;font-size:22px"><b><a href="https://mustavi-99.github.io/Mining_research/" style="color:black;text-decoration:none">LLM-Driven Open-Pit Mine Scheduling</a></b></span><br>
+  <span style="color:black;font-family:Georgia">Ongoing research on using Large Language Models and simulators for open-pit mine production scheduling and MILP formulation. Progress and findings are documented in a research blog.</span>
+
 
 ## Graduate Projects[2025-2026]
 * <span style="color:black;font-family:Trebuchet MS;font-size:22px"><b>Real Time ASL Recognition System</b></span><br>
