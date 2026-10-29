@@ -25,7 +25,6 @@ author_profile: true
 * <span style="font-family:Trebuchet MS;font-size:22px"><b><a href="https://mustavi-99.github.io/Mining_research/" style="color:black;text-decoration:none">LLM-Driven Open-Pit Mine Scheduling</a></b></span><br>
   <span style="color:black;font-family:Georgia">Ongoing research on using Large Language Models and simulators for open-pit mine production scheduling and MILP formulation. Progress and findings are documented in a research blog.</span>
 
-
 ## Graduate Projects[2025-2026]
 * <span style="color:black;font-family:Trebuchet MS;font-size:22px"><b>Real Time ASL Recognition System</b></span><br>
 <span style="color:black;font-family:Georgia">A framework to Real-Time American Sign Language Recognition Using MediaPipe Hand Landmarks and a Fully Connected Neural Network.
@@ -34,6 +33,11 @@ author_profile: true
     <div class="yt-wrapper">
     <iframe src="https://www.youtube.com/embed/IstYhpTVqfM?autoplay=0&controls=1"  width="20" height="10"  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
+
+* <span style="color:black;font-family:Trebuchet MS;font-size:22px"><b>Open-Pit Mine Production Scheduler</b></span><br>
+<span style="color:black;font-family:Georgia">An interactive web game built on an open-pit mine production scheduling simulator. Players choose which blocks to extract and process each period, under slope precedence, capacity and grade constraints, to maximise Net Present Value. Scores are compared against a greedy baseline on a verified leaderboard.
+[[Live Demo](https://llm-milp-mining-web.vercel.app/)] [[Git Link](https://github.com/Mustavi-99/LLM-MILP-Mining)]
+</span>
 
 * <span style="color:black;font-family:Trebuchet MS;font-size:22px"><b>Impact of DRO on Noisy Labels</b></span><br>
 <span style="color:black;font-family:Georgia">Investigating the Impact of Distributionally Robust Optimization on Learning with Noisy Labels.
