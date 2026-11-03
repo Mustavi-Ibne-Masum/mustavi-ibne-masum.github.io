@@ -1,0 +1,79 @@
+# Projects, grouped. Each group shows as its own section.
+# video: a YouTube video ID (the part after watch?v=). It loads only when someone opens it.
+
+- group: "Current research"
+  years: "2026–present"
+  items:
+    - name: "LLM-driven open-pit mine scheduling"
+      url: "https://mustavi-99.github.io/Mining_research/"
+      text: "Ongoing research on using large language models and simulators for open-pit mine production scheduling and MILP formulation. Progress and findings are written up in a research blog."
+
+- group: "Graduate projects"
+  years: "2025–2026"
+  items:
+    - name: "Open-pit mine production scheduler"
+      text: "An interactive web game built on an open-pit mine production scheduling simulator. Players choose which blocks to extract and process each period, under slope precedence, capacity and grade constraints, to maximise net present value. Scores are compared against a greedy baseline on a verified leaderboard."
+      links:
+        - { label: "Live demo", url: "https://llm-milp-mining-web.vercel.app/" }
+        - { label: "Code", url: "https://github.com/Mustavi-99/LLM-MILP-Mining" }
+    - name: "Real-time ASL recognition system"
+      text: "Real-time American Sign Language recognition using MediaPipe hand landmarks and a fully connected neural network."
+      links:
+        - { label: "Code", url: "https://github.com/Mustavi-99/Real-Time-ASL-Recognition-System" }
+      video: "IstYhpTVqfM"
+    - name: "Impact of DRO on noisy labels"
+      text: "Investigating the impact of distributionally robust optimization on learning with noisy labels."
+      links:
+        - { label: "Code", url: "https://github.com/Mustavi-99/COMP-5422-FA25-CompVision-ImageAnalysis-G10" }
+
+- group: "Undergraduate projects"
+  years: "2019–2023"
+  items:
+    - name: "IUMS"
+      text: "A desktop application that processes lab clearance data for students of Ahsanullah University of Science and Technology."
+      links:
+        - { label: "Code", url: "https://github.com/S-A-M-404/IUMS" }
+      video: "lhYJUGn6LJo"
+    - name: "Zupermart online clothing store"
+      text: "A shopping website with an HTML and CSS front end and a PHP and JavaScript back end."
+      links:
+        - { label: "Code", url: "https://github.com/Mustavi-99/Zupermart-Online-Clothing-Store" }
+        - { label: "Try it", url: "https://mustavi-99.github.io/Zupermart-Online-Clothing-Store/" }
+      video: "kE7Xf_8gVxI"
+    - name: "FCMS (Football Club Management System)"
+      text: "A management system for a football club, using a JavaFX interface and a Microsoft SQL database."
+      links:
+        - { label: "Code", url: "https://github.com/Mustavi-99/FCMS" }
+      video: "zJW6YVEsldU"
+    - name: "Personal progress tracker"
+      text: "An Android app for tracking daily progress, with Firebase as the database."
+      links:
+        - { label: "Code", url: "https://github.com/Mustavi-99/Personal-Progress-Tracker" }
+    - name: "Intrusion detection with multiple ML models"
+      text: "A machine learning project comparing several models for detecting network intrusions."
+      links:
+        - { label: "Code", url: "https://github.com/Mustavi-99/Intrusion-Detection-Using-Multiple-Machine-Learning-Models" }
+    - name: "Laptop price prediction"
+      text: "Predicting laptop prices with machine learning."
+      links:
+        - { label: "Code", url: "https://github.com/Mustavi-99/Laptop-Price-Prediction" }
+    - name: "Blind stick"
+      text: "A hardware aid for blind people, built with Arduino and C#."
+      links:
+        - { label: "Code", url: "https://github.com/Mustavi-99/Blind-Stick" }
+    - name: "DeshiEats"
+      text: "A PHP food website backed by a Microsoft SQL database."
+      links:
+        - { label: "Code", url: "https://github.com/Mustavi-99/DeshiEats" }
+    - name: "Genesis Mart"
+      text: "A shopping website built on ASP.NET MVC with a Microsoft SQL database."
+      links:
+        - { label: "Code", url: "https://github.com/Mustavi-99/Genesis-Mart" }
+    - name: "SIMS (Student Internship Management System)"
+      text: "A student internship management system written in PL/SQL."
+      links:
+        - { label: "Code", url: "https://github.com/Mustavi-99/SIMS-Student-Internship-Management-System" }
+    - name: "A Book"
+      text: "A 3D book rendered in the browser with three.js."
+      links:
+        - { label: "Code", url: "https://github.com/Mustavi-99/A-Book-by-three.js" }

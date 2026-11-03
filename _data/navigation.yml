@@ -1,23 +1,16 @@
-# main links links
+# Top navigation. Order here is the order on the site.
 main:
-  - title: "Home"
+  - title: "About"
     url: /
-    
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /projects/
   - title: "Experience"
     url: /experience/
-  
   - title: "Education"
     url: /education/
- 
-  - title: "Publications"
-    url: /publications/    
-       
-  - title: "Participation & Awards"
+  - title: "Awards"
     url: /participation-awards/
-    
-  - title: "Projects"
-    url: /projects/ 
-
   - title: "CV"
     url: /cv/
- 

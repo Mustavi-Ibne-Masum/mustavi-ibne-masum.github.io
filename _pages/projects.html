@@ -1,0 +1,24 @@
+---
+layout: site
+title: "Projects"
+lede: "Research prototypes, course projects and things I built to learn."
+permalink: /projects/
+---
+{% for g in site.data.projects %}
+<section class="proj-group">
+  <h2 class="proj-group__name">{{ g.group }} <span class="proj-group__years">{{ g.years }}</span></h2>
+  <ul class="projects">
+  {% for p in g.items %}
+    <li class="project">
+      <h3 class="project__name">{% if p.url %}<a class="quiet-link" href="{{ p.url }}">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}</h3>
+      <p class="project__text">{{ p.text }}</p>
+      {% if p.links or p.video %}<p class="project__links">
+        {% for l in p.links %}<a class="chip" href="{{ l.url }}">{{ l.label }}</a>{% endfor %}
+        {% if p.video %}<button class="chip chip--toggle chip--video" type="button" aria-expanded="false" data-video="{{ p.video }}" data-title="{{ p.name | escape }} demo">Watch demo</button>{% endif %}
+      </p>{% endif %}
+      {% if p.video %}<div class="project__video" hidden></div>{% endif %}
+    </li>
+  {% endfor %}
+  </ul>
+</section>
+{% endfor %}

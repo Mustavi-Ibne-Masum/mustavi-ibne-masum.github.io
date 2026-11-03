@@ -1,0 +1,43 @@
+---
+layout: site
+title: "Awards & activities"
+permalink: /participation-awards/
+---
+<section class="plain-section">
+  <h2>Awards and participation</h2>
+  <ul class="ledger">
+  {% for a in site.data.awards.awards %}
+    <li class="ledger__row{% if a.highlight %} ledger__row--hi{% endif %}">
+      <span class="ledger__year">{{ a.year }}</span>
+      <span class="ledger__what"><span class="ledger__title">{{ a.title }}</span>{% if a.org %}<span class="ledger__org">{{ a.org }}</span>{% endif %}</span>
+      {% if a.link %}<a class="chip" href="{{ a.link.url | relative_url }}">{{ a.link.label }}</a>{% endif %}
+    </li>
+  {% endfor %}
+  </ul>
+</section>
+
+<section class="plain-section">
+  <h2>Extracurricular activities</h2>
+  <ul class="ledger">
+  {% for a in site.data.awards.activities %}
+    <li class="ledger__row">
+      <span class="ledger__year">{{ a.years }}</span>
+      <span class="ledger__what"><span class="ledger__title">{{ a.title }}</span></span>
+      {% if a.link %}<a class="chip" href="{{ a.link.url }}">{{ a.link.label }}</a>{% endif %}
+    </li>
+  {% endfor %}
+  </ul>
+</section>
+
+<section class="plain-section">
+  <h2>Courses completed</h2>
+  <ul class="ledger">
+  {% for a in site.data.awards.courses %}
+    <li class="ledger__row">
+      <span class="ledger__year">{{ a.org }}</span>
+      <span class="ledger__what"><span class="ledger__title">{{ a.title }}</span></span>
+      {% if a.link %}<a class="chip" href="{{ a.link.url }}">{{ a.link.label }}</a>{% endif %}
+    </li>
+  {% endfor %}
+  </ul>
+</section>

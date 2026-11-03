@@ -1,0 +1,39 @@
+---
+layout: site
+title: "CV & contact"
+permalink: /cv/
+redirect_from:
+  - /resume
+---
+{% assign cv = '/files/CV/cv of Mustavi_Ibne_Masum.pdf' | relative_url %}
+<p class="cv-actions"><a class="button" href="{{ cv }}" download>Download CV (PDF)</a> <a class="chip" href="{{ cv }}">Open in a new tab</a></p>
+
+<div class="cv-frame">
+  <iframe src="{{ cv }}" title="CV of Mustavi Ibne Masum" loading="lazy"></iframe>
+</div>
+
+<div class="contact-grid">
+  <section>
+    <h2>Email</h2>
+    <ul class="plain-list">
+      <li>mustavi[dot]sadim99[at]gmail[dot]com <span class="muted">personal</span></li>
+      <li>mmasum[at]lakeheadu[dot]ca <span class="muted">university</span></li>
+    </ul>
+    <p>Feel free to get in touch about research, teaching or collaboration.</p>
+    <!-- <h2>Elsewhere</h2>
+    {% include social-links.html %} -->
+    <h2>Social media</h2>
+    <p>You can find me on <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}/">LinkedIn</a>.</p>
+  </section>
+  <section>
+    <h2>Office</h2>
+    <address>
+      <a href="https://www.lakeheadu.ca/">Lakehead University</a>, Barrie STEM Hub<br>
+      5 Ross St, Barrie, ON L4M 3A5<br>
+      Ontario, Canada
+    </address>
+    <div class="map">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d483.21955202512464!2d-79.69264124548297!3d44.390391282346044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882aa300352ac9e3%3A0x7ffc62c8d300d84c!2sLakehead%20University%20-%20Barrie%20STEM%20Hub!5e0!3m2!1sen!2sca!4v1792168257932!5m2!1sen!2sca" title="Map of Lakehead University Barrie STEM Hub" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
+    </div>
+  </section>
+</div>

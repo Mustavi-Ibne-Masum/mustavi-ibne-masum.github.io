@@ -1,0 +1,32 @@
+---
+layout: site
+title: "Experience"
+lede: "Teaching, lecturing and software work."
+permalink: /experience/
+---
+<ol class="timeline">
+{% for j in site.data.experience %}
+  <li class="tl{% if j.end == 'Present' %} tl--now{% endif %}">
+    <p class="tl__when"><span>{{ j.start }}</span> <span>to {{ j.end }}</span></p>
+    <div class="tl__body">
+      <img class="tl__logo" src="{{ j.logo | relative_url }}" alt="" width="44" height="44" loading="lazy">
+      <h2 class="tl__title">{% if j.role_url %}<a href="{{ j.role_url }}">{{ j.role }}</a>{% else %}{{ j.role }}{% endif %}</h2>
+      <p class="tl__org"><a href="{{ j.org_url }}">{{ j.org }}</a>{% if j.dept %}, {{ j.dept }}{% endif %}</p>
+      {% if j.note %}<p class="tl__note">{{ j.note }}</p>{% endif %}
+      {% if j.details %}
+      <details class="more">
+        <summary>{{ j.details_label | default: "Responsibilities" }}</summary>
+        <ul>{% for d in j.details %}<li>{{ d }}</li>{% endfor %}</ul>
+      </details>
+      {% endif %}
+    </div>
+  </li>
+{% endfor %}
+</ol>
+
+<section class="plain-section">
+  <h2>Reviewer</h2>
+  <ul class="plain-list">
+  {% for r in site.data.reviewer %}<li><a href="{{ r.url }}">{{ r.name }}</a></li>{% endfor %}
+  </ul>
+</section>

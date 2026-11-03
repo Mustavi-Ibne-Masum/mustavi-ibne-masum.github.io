@@ -1,0 +1,43 @@
+# Education, newest first.
+- degree: "M.Sc. in Computer Science, specialization in Artificial Intelligence"
+  org: "Lakehead University"
+  org_url: "https://www.lakeheadu.ca/"
+  logo: /images/LogoLU.png
+  start: "2025"
+  end: "Present"
+  supervisors:
+    - { name: "Dr. Thiago E. Alves de Oliveira", url: "https://www.lakeheadu.ca/users/A/talvesd" }
+    - { name: "Dr. Mahzabeen Emu", url: "https://www.lakeheadu.ca/users/E/memu" }
+
+- degree: "B.Sc. in Computer Science and Engineering"
+  org: "Ahsanullah University of Science and Technology"
+  org_url: "https://aust.edu"
+  logo: /images/LogoAust.png
+  start: "2019"
+  end: "2023"
+  result: "CGPA <b>3.881</b> / 4.00, ranked 2nd in class"
+  supervisors:
+    - { name: "Mr. Faisal Muhammad Shah", url: "https://aust.edu/cse/faculty_member/mr_faisal_muhammad_shah" }
+  docs:
+    - { label: "Certificate", url: "/files/Education/BSc_Certificate.pdf" }
+    - { label: "Transcript", url: "/files/Education/Mustavi_Ibne_Masum_Academic_Transcript.pdf" }
+
+- degree: "Higher Secondary Certificate (HSC)"
+  org: "Adamjee Cantonment College"
+  org_url: "https://acc.edu.bd/"
+  logo: /images/Adamjee_Cantonment_College_Monogram.png
+  start: "2016"
+  end: "2018"
+  result: "GPA <b>5.00</b> / 5.00"
+  docs:
+    - { label: "Certificate", url: "/files/Education/HSC_Certificate.pdf" }
+
+- degree: "Secondary School Certificate (SSC)"
+  org: "Dhanmondi Govt. Boys' High School"
+  org_url: "http://www.dgbhs.edu.bd/"
+  logo: /images/dgbhs.png
+  start: "2014"
+  end: "2016"
+  result: "GPA <b>5.00</b> / 5.00"
+  docs:
+    - { label: "Certificate", url: "/files/Education/SSC_Certificate.pdf" }

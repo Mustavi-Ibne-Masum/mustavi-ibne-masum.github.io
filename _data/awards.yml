@@ -1,0 +1,24 @@
+# highlight: true shows the entry in the accent colour.
+awards:
+  - { year: 2025, title: "Vector Institute Scholarship in Artificial Intelligence", org: "Vector Institute", highlight: true, link: { label: "Announcement", url: "https://vectorinstitute.ai/ontario-ai-talent-gets-2-1-million-boost-as-vector-institute-awards-120-graduate-scholarships/" } }
+  - { year: 2023, title: "Dean's List of Honor, ranked 2nd", org: "Ahsanullah University of Science and Technology", highlight: true, link: { label: "List", url: "https://www.aust.edu/notice/1879" } }
+  - { year: 2023, title: "Tuition fee waiver, Spring 2022 semester", org: "Ahsanullah University of Science and Technology", link: { label: "Notice", url: "https://www.aust.edu/notice/1645" } }
+  - { year: 2022, title: "Tuition fee waiver, Spring 2021 semester", org: "Ahsanullah University of Science and Technology", link: { label: "Notice", url: "https://www.aust.edu/notice/1159" } }
+  - { year: 2021, title: "Tuition fee waiver, Fall 2020 semester", org: "Ahsanullah University of Science and Technology", link: { label: "Notice", url: "https://www.aust.edu/notice/881" } }
+  - { year: 2019, title: "Participant, Codeware Intra AUST Programming Contest, Spring 2019 (team)", org: "Ahsanullah University of Science and Technology", link: { label: "Certificate", url: "/files/Participations-and-Awards/Certificate_of_Participation_in_Codeware_19_Intra_AUST_Programming_Contest_Spring_2019.pdf" } }
+  - { year: 2019, title: "Tuition fee waiver, Spring 2019 semester", org: "Ahsanullah University of Science and Technology" }
+  - { year: 2019, title: "Participant, Game of Codes Intra AUST Programming Contest, Fall 2018 (team)", org: "Ahsanullah University of Science and Technology", link: { label: "Certificate", url: "/files/Participations-and-Awards/Certificate_of_Participation_in_Game_of_Codes_Intra_AUST_Programming_Contest_fall_2018.pdf" } }
+  - { year: 2017, title: "1st place, Project Display (Mechanical), Senior Level", org: "2nd BAF Shaheen College Dhaka Science Fair", highlight: true, link: { label: "Certificate", url: "/files/Participations-and-Awards/Certificate_of_Excellence_2nd_BAF_Shaheen_College_Dhaka_Science_Fair_2017.pdf" } }
+  - { year: 2017, title: "Participant, 3rd Adamjee Cantonment College National Science Festival", link: { label: "Certificate", url: "/files/Participations-and-Awards/Certificate_of_Participation_in_3rd_ACC_National_Science_Festival_2017.pdf" } }
+  - { year: 2016, title: "Participant, Space Apps Next Gen Dhaka", link: { label: "Certificate", url: "/files/Participations-and-Awards/Certificate_of_Participation_in_Space_Apps_Next_Gen_Dhaka.pdf" } }
+  - { year: 2016, title: "Participant, Notre Dame Annual Science Festival & 26th GKC, Wall Magazine, Senior Level", link: { label: "Certificate", url: "/files/Participations-and-Awards/Certificate_of_Participation_in_Notre_Dame_Annual_Science_Festival_2016_and_26th_GKC.pdf" } }
+
+activities:
+  - { years: "2021", title: "Organizer, AUST CSE Festival, Fall 2021" }
+  - { years: "2021", title: "Organizer, AUST CSE Picnic, Fall 2021", link: { label: "Event", url: "https://www.facebook.com/events/1052667378693918/" } }
+  - { years: "2021", title: "Organizer, AUST CSE Football Tournament, Fall 2021", link: { label: "Event", url: "https://www.facebook.com/events/432336688706777" } }
+  - { years: "2016–2017", title: "Member, Neutrino ACC Science Club (NASC)" }
+
+courses:
+  - { title: "Neural Networks and Deep Learning", org: "Coursera", link: { label: "Certificate", url: "https://www.coursera.org/account/accomplishments/certificate/LFUWYH2A9MQM" } }
+  - { title: "Mathematics for Machine Learning: Linear Algebra", org: "Coursera", link: { label: "Certificate", url: "https://www.coursera.org/account/accomplishments/certificate/ECGKF655TRRN" } }

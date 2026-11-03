@@ -1,0 +1,20 @@
+---
+layout: site
+title: "Education"
+permalink: /education/
+---
+<ol class="timeline">
+{% for e in site.data.education %}
+  <li class="tl{% if e.end == 'Present' %} tl--now{% endif %}">
+    <p class="tl__when"><span>{{ e.start }}</span> <span>to {{ e.end }}</span></p>
+    <div class="tl__body">
+      <img class="tl__logo" src="{{ e.logo | relative_url }}" alt="" width="44" height="44" loading="lazy">
+      <h2 class="tl__title">{{ e.degree }}</h2>
+      <p class="tl__org"><a href="{{ e.org_url }}">{{ e.org }}</a></p>
+      {% if e.result %}<p class="tl__note">{{ e.result }}</p>{% endif %}
+      {% if e.supervisors %}<p class="tl__note">Supervised by {% for s in e.supervisors %}<a href="{{ s.url }}">{{ s.name }}</a>{% unless forloop.last %} and {% endunless %}{% endfor %}</p>{% endif %}
+      {% if e.docs %}<p class="tl__docs">{% for d in e.docs %}<a class="chip" href="{{ d.url | relative_url }}">{{ d.label }}</a>{% endfor %}</p>{% endif %}
+    </div>
+  </li>
+{% endfor %}
+</ol>

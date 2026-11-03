@@ -1,0 +1,113 @@
+# Publications, newest first. Add a new paper by copying one block.
+# status: Preprint | Journal | Conference
+# Your own name is matched by `me` in _config.yml (author.name) and highlighted automatically.
+
+- key: masum2026progressivecontextenrichment
+  title: "Progressive Context Enrichment for LLM-Based MILP Formulation in Open-Pit Mine Production Scheduling"
+  authors: ["Mustavi Ibne Masum", "Thiago Eustaquio Alves de Oliveira", "Mahzabeen Emu", "et al."]
+  venue: "Research Square"
+  status: Preprint
+  year: 2026
+  links:
+    - { label: "DOI", url: "https://doi.org/10.21203/rs.3.rs-10375218/v1" }
+  abstract: >-
+    Open-pit mine production scheduling (OPMPS) is an NP-hard optimization problem traditionally addressed through Mixed Integer Linear Programming (MILP), whose correct formulation requires mathematical expertise that many mine planning practitioners lack. Large Language Models (LLMs) can automate this procedure; however, their reliability frequently diminishes with increasing problem complexity. This paper proposes a staged context-enrichment framework for LLM-based generation of Gurobi-compatible MILP code. The framework uses four prompt configurations of increasing informational density. Starting from a structured problem description (Basic Prompt), then the description is augmented with a greedy simulation log, inclusion of simulator source code and finally with an inline-annotated version of that code. We evaluate four LLMs, ChatGPT, Gemini, DeepSeek, and Copilot, across all configurations against a verified benchmark MILP. Formulation quality is measured using net present value (NPV) accuracy and constraint recovery across five categories. A central finding is that whole-objective feasibility alone is an unreliable indicator of formulation correctness, since many nominally feasible formulations are silent failures that never enforce one or more constraint groups. Once these cases are identified and excluded, simulator code emerges as the most informative element for whole-objective accuracy, whereas annotated code achieves the highest feasibility rates and the strongest average constraint-level recovery.
+  bibtex: |-
+    @misc{masum2026progressivecontextenrichment,
+      title={Progressive Context Enrichment for LLM-Based MILP Formulation in Open-Pit Mine Production Scheduling},
+      author={Masum, Mustavi Ibne and Alves de Oliveira, Thiago Eustaquio and Emu, Mahzabeen and others},
+      year={2026},
+      month={jul},
+      note={Preprint (Version 1), Research Square, 23 July 2026},
+      howpublished={Research Square},
+      doi={10.21203/rs.3.rs-10375218/v1},
+      url={https://doi.org/10.21203/rs.3.rs-10375218/v1}
+    }
+
+- key: masum2026sim2schedule
+  title: "Sim2Schedule: A Simulator-Guided LLM Framework for Autonomous Open-Pit Mine Scheduling"
+  authors: ["Mustavi Ibne Masum", "Thiago Eustaquio Alves de Oliveira", "Mahzabeen Emu"]
+  venue: "arXiv:2606.10286 [cs.AI]"
+  status: Preprint
+  year: 2026
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2606.10286" }
+  abstract: >-
+    Open-pit mine scheduling is a critical process for maximizing economic return under complex geotechnical and operational constraints. While Mixed-Integer Linear Programming (MILP) provides mathematically optimal baselines, its exponential computational complexity and inability to adapt in real time limit its practical deployment in dynamic industrial environments. This work introduces a simulator-driven Large Language Model (LLM) scheduling framework in which the LLM acts as an autonomous decision-making agent, guided at each step by a custom simulator that encodes geotechnical precedence, extraction-processing coupling, and dynamic capacity constraints directly into the action generation mechanism. Operating entirely zero-shot within a closed, data-secure environment, the framework produces complete, interpretable extraction and processing schedules without cloud-based inference, domain-specific fine-tuning, or retraining. To provide a trustworthy performance benchmark, a novel MILP formulation is developed that incorporates realistic operational and geotechnical constraints. Evaluated across mining instances of varying scale and time periods, the LLM-based framework recovers between 94% and 99% of the MILP optimal NPV while scaling linearly in computation time. These results position simulator-constrained LLM agents as a practical and scalable alternative to classical optimization for long-horizon industrial scheduling under complex operational constraints.
+  bibtex: |-
+    @misc{masum2026sim2schedulesimulatorguidedllmframework,
+      title={Sim2Schedule: A Simulator-Guided LLM Framework for Autonomous Open-Pit Mine Scheduling},
+      author={Masum, Mustavi Ibne and Alves de Oliveira, Thiago Eustaquio and Emu, Mahzabeen},
+      year={2026},
+      eprint={2606.10286},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2606.10286}
+    }
+
+- key: cmes.2024.050760
+  title: "GliomaCNN: An Effective Lightweight CNN Model in Assessment of Classifying Brain Tumor from Magnetic Resonance Images Using Explainable AI"
+  authors: ["Md. Atiqur Rahman", "Mustavi Ibne Masum", "Khan Md Hasib", "M. F. Mridha", "Sultan Alfarhood", "Mejdl Safran", "Dunren Che"]
+  venue: "Computer Modeling in Engineering & Sciences, vol. 140, no. 3, pp. 2425–2448"
+  status: Journal
+  year: 2024
+  links:
+    - { label: "DOI", url: "https://doi.org/10.32604/cmes.2024.050760" }
+    - { label: "Paper", url: "http://www.techscience.com/CMES/v140n3/57248" }
+  abstract: >-
+    Brain tumors pose a significant threat to human lives and have gained increasing attention as the tenth leading cause of global mortality. This study addresses the pressing issue of brain tumor classification using Magnetic resonance imaging (MRI). It focuses on distinguishing between Low-Grade Gliomas (LGG) and High-Grade Gliomas (HGG). LGGs are benign and typically manageable with surgical resection, while HGGs are malignant and more aggressive. The research introduces an innovative custom convolutional neural network (CNN) model, Glioma-CNN. GliomaCNN stands out as a lightweight CNN model compared to its predecessors. The research utilized the BraTS 2020 dataset for its experiments. Integrated with the gradient-boosting algorithm, GliomaCNN has achieved an impressive accuracy of 99.1569%. The model's interpretability is ensured through SHapley Additive exPlanations (SHAP) and Gradient-weighted Class Activation Mapping (Grad-CAM++). They provide insights into critical decision-making regions for classification outcomes. Despite challenges in identifying tumors in images without visible signs, the model demonstrates remarkable performance in this critical medical application, offering a promising tool for accurate brain tumor diagnosis which paves the way for enhanced early detection and treatment of brain tumors.
+  bibtex: |-
+    @Article{cmes.2024.050760,
+      AUTHOR = {Md. Atiqur Rahman, Mustavi Ibne Masum, Khan Md Hasib, M. F. Mridha, Sultan Alfarhood, Mejdl Safran, Dunren Che},
+      TITLE = {GliomaCNN: An Effective Lightweight CNN Model in Assessment of Classifying Brain Tumor from Magnetic Resonance Images Using Explainable AI},
+      JOURNAL = {Computer Modeling in Engineering \& Sciences},
+      VOLUME = {140},
+      YEAR = {2024},
+      NUMBER = {3},
+      PAGES = {2425--2448},
+      URL = {http://www.techscience.com/CMES/v140n3/57248},
+      ISSN = {1526-1506},
+      DOI = {10.32604/cmes.2024.050760}
+    }
+
+- key: "10441125"
+  title: "Bengali Image Captioning Using Vision Encoder-Decoder Model"
+  authors: ["Tajrian Islam Ishan", "Abdullah Al Noman", "Raisa Rokib", "Mustavi Ibne Masum", "Sifat Ahmed", "Faisal Muhammad Shah"]
+  venue: "26th International Conference on Computer and Information Technology (ICCIT), pp. 1–6"
+  status: Conference
+  year: 2023
+  links:
+    - { label: "DOI", url: "https://doi.org/10.1109/ICCIT60459.2023.10441125" }
+    - { label: "ResearchGate", url: "https://www.researchgate.net/publication/376595646_Bengali_Image_Captioning_Using_Vision_Encoder-Decoder_Model" }
+  abstract: >-
+    Our research focuses on Bangla Image Captioning which involves generating descriptive captions for the images. To address this task, we propose a new approach using the Vision Encoder-Decoder model, consisting of interconnected models for image encoding and text decoding. Previous work in this area has not explored the use of the Vision Encoder-Decoder Model specifically for Bangla Image Captioning. We have conducted several studies using two publicly available Bengali datasets, Bornon and BanCap, and merged them to create a comprehensive dataset to assess the performance of our model. Our proposed model outperforms recent developments in Bengali image captioning, delivering exceptional results in both quantitative and qualitative analyses.
+  bibtex: |-
+    @INPROCEEDINGS{10441125,
+      author={Ishan, Tajrian Islam and Al Noman, Abdullah and Rokib, Raisa and Masum, Mustavi Ibne and Ahmed, Sifat and Shah, Faisal Muhammad},
+      booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)},
+      title={Bengali Image Captioning Using Vision Encoder-Decoder Model},
+      year={2023},
+      pages={1-6},
+      doi={10.1109/ICCIT60459.2023.10441125}
+    }
+
+- key: "10410939"
+  title: "Bengali News Abstractive Summarization: T5 Transformer and Hybrid Approach"
+  authors: ["Khan Md Hasib", "Md. Atiqur Rahman", "Mustavi Ibne Masum", "Friso De Boer", "Sami Azam", "Asif Karim"]
+  venue: "International Conference on Digital Image Computing: Techniques and Applications (DICTA), pp. 539–545"
+  status: Conference
+  year: 2023
+  links:
+    - { label: "DOI", url: "https://doi.org/10.1109/DICTA60407.2023.00080" }
+    - { label: "ResearchGate", url: "https://www.researchgate.net/publication/373953155_Bengali_News_Abstractive_Summarization_T5_Transformer_and_Hybrid_Approach" }
+  abstract: >-
+    In today's fast-paced world, everyone wants things to happen quickly. Thanks to the internet, news spreads super fast. But not all news is important. News summarization helps by giving a short version of each news story, so readers can easily figure out what type of news they want to read. There are two main types of summarization: Abstractive Text Summarization and Extractive Text Summarization. The process of abstractive text summarization is much more complex than that of extractive text summarization. This study proposes a model for generating extractive summaries, which are then utilized as input to generate abstractive summaries. The model uses the Bengali Text Summarization (BenSumm) model for extractive summarization and the Bangla Text-to-Text Transfer Transformer (BanlaT5) for abstractive summarization. The research also compares summarization acquired straight from the BanglaT5 model with summarization obtained via the proposed model. Abstractive summarization in the Bengali language has been accomplished using the Text-to-Text Transfer Transformer(T5) in this research. Although abstractive summarization of the Bengali language has been accomplished over the years using a variety of techniques, the field of using T5 in this field has only recently been discovered, and there is still a wide range of opportunities to be explored. The study has achieved promising results.
+  bibtex: |-
+    @INPROCEEDINGS{10410939,
+      author={Hasib, Khan Md and Rahman, Md. Atiqur and Masum, Mustavi Ibne and Boer, Friso De and Azam, Sami and Karim, Asif},
+      booktitle={2023 International Conference on Digital Image Computing: Techniques and Applications (DICTA)},
+      title={Bengali News Abstractive Summarization: T5 Transformer and Hybrid Approach},
+      year={2023},
+      pages={539-545},
+      doi={10.1109/DICTA60407.2023.00080}
+    }

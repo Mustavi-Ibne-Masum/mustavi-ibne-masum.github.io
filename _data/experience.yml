@@ -1,0 +1,65 @@
+# Work experience, newest first.
+- role: "Graduate Teaching Assistant"
+  dept: "Computer Science Department"
+  org: "Lakehead University"
+  org_url: "https://www.lakeheadu.ca/"
+  logo: /images/LogoLU.png
+  start: "Sep 2025"
+  end: "Present"
+  details_label: "Courses assisted"
+  details:
+    - "<b>COMP-1411-FA</b> Computer Programming I, Fall 2025"
+    - "<b>COMP-4111-FA</b> Clinical Decision Support, Fall 2025"
+    - "<b>COMP-2476-WA</b> Intro Assembly Language & Operating Systems, Winter 2026"
+    - "<b>COMP-5413-WA</b> Advanced Data Structures, Winter 2026"
+    - "<b>COMP-3473-FAB</b> Operating Systems, Fall 2026"
+    - "<b>COMP-2453-FAB</b> Intro Computer Architecture, Fall 2026"
+
+- role: "Lecturer"
+  role_url: "https://new.seu.edu.bd/employee/profile/MDExMTM0"
+  dept: "Department of Computer Science and Engineering"
+  org: "Southeast University"
+  org_url: "https://new.seu.edu.bd/"
+  logo: /images/LogoSEU.png
+  start: "Jun 2025"
+  end: "Aug 2025"
+  details:
+    - "Taught with an Outcome-Based Education (OBE) approach, focused on measurable learning outcomes and skill development."
+    - "Taught Data Structures, covering foundational algorithms and data management techniques."
+    - "Taught Introduction to Embedded Systems, in theory and lab sessions."
+
+- role: "Lecturer (Part-time)"
+  role_url: "https://new.seu.edu.bd/employee/profile/MDExMTM0"
+  dept: "Department of Computer Science and Engineering"
+  org: "Southeast University"
+  org_url: "https://new.seu.edu.bd/"
+  logo: /images/LogoSEU.png
+  start: "Jul 2024"
+  end: "Jun 2025"
+  details:
+    - "Taught Data Structures, covering foundational algorithms and data management techniques."
+    - "Taught Discrete Mathematics, focusing on logic, set theory and combinatorial analysis."
+    - "Taught Introduction to Embedded Systems, in theory and lab sessions."
+
+- role: "Lecturer (Part-time)"
+  dept: "Department of Computer Science and Engineering"
+  org: "Ahsanullah University of Science and Technology"
+  org_url: "https://aust.edu"
+  logo: /images/LogoAust.png
+  start: "Mar 2024"
+  end: "Sep 2024"
+  details:
+    - "Taught web application development with ASP.NET and guided students through their own website projects."
+
+- role: "Junior Software Engineer"
+  org: "RITE Solutions Ltd."
+  org_url: "https://www.rite.com.bd/"
+  logo: /images/LogoRITE.png
+  start: "Feb 2024"
+  end: "Jun 2024"
+  note: "Stack: .NET, AngularJS"
+  details:
+    - "Implemented features and bug fixes across the full stack, with AngularJS on the front end and .NET/C# on the back end."
+    - "Integrated Entity Framework for data modeling and database communication."
+    - "Wrote LINQ queries to streamline data retrieval and improve performance across core modules."
+
