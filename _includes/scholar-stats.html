@@ -11,9 +11,8 @@
   {% else %}
     {% assign cites_shown = cites %}
   {% endif %}
-<a class="scholar-stats" href="{{ sch.profile | default: site.author.googlescholar }}" title="From Google Scholar">
+<p class="scholar-stats">
   <span class="scholar-stats__item"><strong>{{ sch.publications }}</strong> publications</span>
   <span class="scholar-stats__item"><strong>{{ cites_shown }}</strong> citations</span>
-  <span class="scholar-stats__src">Google Scholar</span>
-</a>
+</p>
 {% endif %}
