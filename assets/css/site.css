@@ -152,6 +152,10 @@ main.wrap { padding-top: clamp(2rem, 5vw, 3.5rem); padding-bottom: 4rem; min-hei
 .page-head { max-width: var(--measure); margin-bottom: 2.5rem; }
 .page-head h1 { font-size: clamp(2.1rem, 4.5vw, 2.9rem); font-weight: 500; letter-spacing: -0.015em; }
 .lede { margin: .6rem 0 0; color: var(--muted); font-size: 1.05rem; }
+.scholar-stats { display: inline-flex; flex-wrap: wrap; align-items: baseline; gap: .35rem 1.4rem; margin: .7rem 0 0; color: var(--muted); text-decoration: none; font: 400 1.02rem var(--sans); }
+.scholar-stats strong { font: 500 1.6rem var(--serif); color: var(--ink); margin-right: .3rem; }
+.scholar-stats__src { font-size: .78rem; letter-spacing: .04em; text-transform: uppercase; color: var(--accent); }
+.scholar-stats:hover .scholar-stats__src { text-decoration: underline; }
 
 .prose { max-width: var(--measure); font-family: var(--serif); font-size: 1.16rem; line-height: 1.62; }
 .prose h2 { font-size: 1rem; font-family: var(--sans); font-weight: 600; color: var(--muted); margin-bottom: .75rem; }

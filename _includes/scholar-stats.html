@@ -1,0 +1,19 @@
+{% comment %}
+  Publication and citation counts from _data/scholar.yml.
+  Citations under 100 show exactly; from 100 up they round down to the
+  nearest 50 with a plus (100+, 150+, 200+, ...).
+{% endcomment %}
+{% assign sch = site.data.scholar %}
+{% if sch %}
+  {% assign cites = sch.citations | plus: 0 %}
+  {% if cites >= 100 %}
+    {% assign cites_shown = cites | divided_by: 50 | times: 50 | append: "+" %}
+  {% else %}
+    {% assign cites_shown = cites %}
+  {% endif %}
+<a class="scholar-stats" href="{{ sch.profile | default: site.author.googlescholar }}" title="From Google Scholar">
+  <span class="scholar-stats__item"><strong>{{ sch.publications }}</strong> publications</span>
+  <span class="scholar-stats__item"><strong>{{ cites_shown }}</strong> citations</span>
+  <span class="scholar-stats__src">Google Scholar</span>
+</a>
+{% endif %}
